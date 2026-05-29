@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T07:23:15.252767+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-05-29T11:50:49.391413+08:00",
+  "total_titles_processed": 760,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "媒体称伊朗愿意将高浓缩铀转运至中国进行处理，国防部回应",
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 07时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 11时50分]"
         },
         {
           "title": "美国中央司令部：伊朗国家电视台声称伊朗军队在布什尔附近击落了一架美国飞机为不实消息。事实上没有美国飞机被击落，所有美国空中资产均完好。",
@@ -26,7 +27,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -37,7 +38,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -51,6 +52,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "伊朗称击落一架美军飞机，美方回应",
+          "url": "https://news.ifeng.com/c/8tVu1gkD4Ca",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
         },
         {
           "title": "【伊朗最高领袖强调维护民族团结】伊朗最高领袖穆杰塔巴28日发表书面讲话，强调维护民族团结与社会凝聚力，并呼吁伊朗各界共同维护国家统一。 穆杰塔巴在伊朗伊斯兰议会成立纪念日之际发表书面讲话说，伊朗议会是“民族意志的体现”和国家立法的重要支柱。他感谢议员们，特别是议长卡利巴夫为国家发展所作努力。 穆杰塔巴说，伊朗人民在近期冲突中展现出团结、信仰和韧性，当前最重要任务之一是维护民族团结与社会凝聚力，避免政治和社会分裂。 他还说，敌对势力在军事、经济以及宣传领域持续向伊朗施压，其目的在于制造社会分裂并削弱伊朗。他呼吁各界特别是政治精英和议员，共同维护国家统一。（新华社）",
@@ -197,7 +209,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -230,7 +242,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -252,7 +264,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -274,7 +286,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -288,6 +300,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "美称敲定“谅解备忘录”遭伊朗否认",
+          "url": "https://www.toutiao.com/trending/7645098099924323890/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
         },
         {
           "title": "美国财长贝森特：将继续在伊朗采取防御行动，但对伊朗的耐心并非无止境。",
@@ -392,7 +415,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
@@ -422,11 +445,34 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 07时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 11时50分]"
+        },
+        {
+          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
+        },
+        {
+          "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
+          "url": "https://www.cls.cn/detail/2384785",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
         },
         {
           "title": "金十图示：2026年05月28日（周四）热门中概股行情一览（美股盘中）",
@@ -444,11 +490,12 @@
           "url": "https://www.cls.cn/detail/2384768",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 07时23分]"
+          "appearance_count": 3,
+          "time_info": "[07时22分 ~ 11时50分]"
         },
         {
           "title": "戴尔科技美股盘后涨幅扩大至27%。",
@@ -469,9 +516,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "美股无人机概念全线暴涨 据称行业有望获美政府资金扶持",
+          "url": "https://www.cls.cn/detail/2384732",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
         },
         {
           "title": "戴尔美股盘后涨幅扩大至35%，纳指期货目前持平。",
@@ -480,7 +538,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -577,19 +635,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 07时23分]"
-        },
-        {
-          "title": "特朗普的两张稀土王牌，先打上“内战”了",
-          "url": "https://news.ifeng.com/c/8tUtQKMFq2T",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 07时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 11时50分]"
         },
         {
           "title": "特朗普调侃赫格塞思：他热衷战争",
@@ -597,6 +644,17 @@
           "source": "凤凰网",
           "ranks": [
             7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 11时50分]"
+        },
+        {
+          "title": "特朗普的两张稀土王牌，先打上“内战”了",
+          "url": "https://news.ifeng.com/c/8tUtQKMFq2T",
+          "source": "凤凰网",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -736,7 +794,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -755,7 +813,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI发布 OpenAI 的前沿治理框架。",
@@ -767,6 +825,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "据网络状况监测网站DownDetector的数据，用户报告显示OpenAI的使用出现问题。",
+          "url": "https://flash.jin10.com/detail/20260529111524394800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
         },
         {
           "title": "美光、SK海力士等入局！Anthropic新一轮融资后估值达9650亿美元，超越OpenAI",
@@ -793,6 +862,45 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美伊新一轮互袭，全球股市承压，Snowflake美股盘前涨近35%，油价拉升4%，金价跌破4400美元关口",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 03时42分]"
+        },
+        {
+          "title": "金价又跌麻了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%88%E8%B7%8C%E9%BA%BB%E4%BA%86%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
+        },
+        {
+          "title": "金十图示：2026年05月29日（周五）上海金早盘价为982.78元/克，较国际金价(979.13元/克)，高3.65元/克",
+          "url": "https://flash.jin10.com/detail/20260529110136791800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -805,25 +913,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 07时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美伊新一轮互袭，全球股市承压，Snowflake美股盘前涨近35%，油价拉升4%，金价跌破4400美元关口",
-          "url": "https://wallstreetcn.com/articles/3773313",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 03时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 11时50分]"
         }
       ]
     },
