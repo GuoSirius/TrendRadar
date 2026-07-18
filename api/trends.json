@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T21:19:30.751715+08:00",
-  "total_titles_processed": 1346,
+  "generated_at": "2026-07-18T22:55:41.118350+08:00",
+  "total_titles_processed": 1451,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 91,
+      "match_count": 94,
       "titles": [
         {
           "title": "伊朗发射巡航导弹打击美军舰艇",
@@ -82,6 +82,17 @@
           "time_info": "07时59分"
         },
         {
+          "title": "据伊朗媒体Fars News：一名伊朗安全官员警告称，若美国对伊朗基础设施发动袭击，迪拜和阿布扎比的机场以及富查伊拉和杰贝阿里港应做好疏散准备。",
+          "url": "https://flash.jin10.com/detail/20260718223420925800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "伊朗最高领袖顾问雷扎伊：如果美国的袭击持续数天，伊朗将进入全面进攻行动阶段。",
           "url": "https://flash.jin10.com/detail/20260718030924829800",
           "source": "金十数据",
@@ -113,17 +124,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
-        },
-        {
-          "title": "伊朗卫生部：自6月27日以来美对伊袭击已致至少50人死亡",
-          "url": "https://wallstreetcn.com/livenews/3136039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
         },
         {
           "title": "伊朗电力与海水淡化设施遭袭",
@@ -374,6 +374,18 @@
           "time_info": "[19时54分 ~ 21时19分]"
         },
         {
+          "title": "伊朗卫生部：自6月27日以来美对伊袭击已致至少50人死亡",
+          "url": "https://wallstreetcn.com/livenews/3136039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时19分 ~ 22时55分]"
+        },
+        {
           "title": "伊朗最高领袖军事顾问：美伊谅解备忘录已名存实亡",
           "url": "https://flash.jin10.com/detail/20260718043137914800",
           "source": "金十数据",
@@ -528,6 +540,30 @@
           "time_info": "[18时20分 ~ 19时54分]"
         },
         {
+          "title": "卡塔尔外交部：强烈谴责伊朗对约旦、巴林和科威特的反复袭击。此举公然侵犯了受袭国家的主权和领土完整，严重违反了国际法、《联合国宪章》以及睦邻友好原则。",
+          "url": "https://flash.jin10.com/detail/20260718210251434800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时19分 ~ 22时55分]"
+        },
+        {
+          "title": "伊朗：已停止履行伊美谅解备忘录",
+          "url": "https://www.toutiao.com/trending/7663703562971512886/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时19分 ~ 22时55分]"
+        },
+        {
           "title": "伊朗革命卫队发布伊朗弹道导弹袭击哈尔季省苏丹王子空军基地的视频。",
           "url": "https://flash.jin10.com/detail/20260718174139867800",
           "source": "金十数据",
@@ -540,6 +576,54 @@
           "time_info": "[18时20分 ~ 19时54分]"
         },
         {
+          "title": "伊朗已停止履行伊美谅解备忘录",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%B7%B2%E5%81%9C%E6%AD%A2%E5%B1%A5%E8%A1%8C%E4%BC%8A%E7%BE%8E%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时19分 ~ 22时55分]"
+        },
+        {
+          "title": "伊朗驻巴基斯坦大使谴责美方曲解伊美谅解备忘录",
+          "url": "https://flash.jin10.com/detail/20260718204219080800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时19分 ~ 22时55分]"
+        },
+        {
+          "title": "伊朗驻巴基斯坦大使谴责美方曲解伊美谅解备忘录",
+          "url": "https://wallstreetcn.com/livenews/3136032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时19分 ~ 22时55分]"
+        },
+        {
+          "title": "伊朗卫生部：自6月27日以来，美国的袭击造成至少50人遇难，500人受伤。",
+          "url": "https://flash.jin10.com/detail/20260718204134957800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时19分 ~ 22时55分]"
+        },
+        {
           "title": "美军称结束第七晚对伊朗打击行动",
           "url": "https://wallstreetcn.com/livenews/3135947",
           "source": "华尔街见闻-快讯",
@@ -550,6 +634,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时18分 ~ 14时06分]"
+        },
+        {
+          "title": "伊朗副外长：伊朗已停止履行伊美谅解备忘录",
+          "url": "https://wallstreetcn.com/livenews/3136030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时19分 ~ 22时55分]"
         },
         {
           "title": "伊朗称袭击位于科威特和约旦的美军基地",
@@ -609,28 +705,6 @@
           "time_info": "11时18分"
         },
         {
-          "title": "卡塔尔外交部：强烈谴责伊朗对约旦、巴林和科威特的反复袭击。此举公然侵犯了受袭国家的主权和领土完整，严重违反了国际法、《联合国宪章》以及睦邻友好原则。",
-          "url": "https://flash.jin10.com/detail/20260718210251434800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "伊朗：已停止履行伊美谅解备忘录",
-          "url": "https://www.toutiao.com/trending/7663703562971512886/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗伊斯兰革命卫队表示，针对美国在谢赫伊萨空军基地的战斗机设施进行了打击。",
           "url": "https://flash.jin10.com/detail/20260718130947273800",
           "source": "金十数据",
@@ -653,6 +727,17 @@
           "time_info": "19时54分"
         },
         {
+          "title": "卡塔尔外交部：“强烈”批评伊朗对约旦、巴林、科威特的袭击。 伊朗的袭击“公然违反”国际法。 袭击持续，意味着局势“危险升级”。 袭击将让维护安全与稳定的努力变得更加复杂。",
+          "url": "https://wallstreetcn.com/livenews/3136052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "伊朗南部霍尔木兹甘省遭袭 已致8名平民死亡",
           "url": "https://flash.jin10.com/detail/20260718162349078800",
           "source": "金十数据",
@@ -662,50 +747,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
-        },
-        {
-          "title": "伊朗驻巴基斯坦大使谴责美方曲解伊美谅解备忘录",
-          "url": "https://flash.jin10.com/detail/20260718204219080800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "伊朗驻巴基斯坦大使谴责美方曲解伊美谅解备忘录",
-          "url": "https://wallstreetcn.com/livenews/3136032",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "伊朗已停止履行伊美谅解备忘录",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%B7%B2%E5%81%9C%E6%AD%A2%E5%B1%A5%E8%A1%8C%E4%BC%8A%E7%BE%8E%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "伊朗卫生部：自6月27日以来，美国的袭击造成至少50人遇难，500人受伤。",
-          "url": "https://flash.jin10.com/detail/20260718204134957800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
         },
         {
           "title": "伊朗革命卫队：两枚伊朗导弹成功突破多枚“爱国者”导弹的防线。至少有两枚伊朗弹道导弹击中了位于约旦的空军基地。尽管伊朗发射的弹道导弹数量相对较少，但其袭击的成功率在过去几天里似乎稳步提高。",
@@ -730,17 +771,6 @@
           "time_info": "19时54分"
         },
         {
-          "title": "伊朗副外长：伊朗已停止履行伊美谅解备忘录",
-          "url": "https://wallstreetcn.com/livenews/3136030",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗伊斯兰革命卫队表示，若领土被用于对伊朗的攻击，驻有美国军队的国家应预期“相应的回应”。",
           "url": "https://flash.jin10.com/detail/20260718122202420800",
           "source": "金十数据",
@@ -758,7 +788,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -816,6 +846,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
+        },
+        {
+          "title": "海湾合作委员会秘书长：伊朗针对巴林、科威特和约旦基础设施的袭击行为构成战争罪。",
+          "url": "https://flash.jin10.com/detail/20260718212017645800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "美中央司令部：结束连续第七晚对伊朗的打击行动",
@@ -1074,7 +1115,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
@@ -1109,8 +1150,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时50分 ~ 21时19分]"
+          "appearance_count": 5,
+          "time_info": "[16时50分 ~ 22时55分]"
         },
         {
           "title": "白宫：特朗普将出席世界杯决赛",
@@ -1132,8 +1173,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时06分 ~ 21时19分]"
+          "appearance_count": 6,
+          "time_info": "[14时06分 ~ 22时55分]"
+        },
+        {
+          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时06分 ~ 22时55分]"
         },
         {
           "title": "市场消息：美国法官裁定，特朗普政府无权因新的政策优先事项而广泛取消拨款资金。",
@@ -1148,19 +1203,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时58分 ~ 07时59分]"
-        },
-        {
-          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时06分 ~ 21时19分]"
         },
         {
           "title": "特朗普再谈巴洛贡红牌事件",
@@ -1188,6 +1230,18 @@
           "time_info": "[06时00分 ~ 07时59分]"
         },
         {
+          "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33612068",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时54分 ~ 22时55分]"
+        },
+        {
           "title": "特朗普媒体科技集团提议，对“Truth API”收取10万美元的月租。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3135845",
           "source": "华尔街见闻-快讯",
@@ -1200,15 +1254,16 @@
           "time_info": "[01时15分 ~ 03时13分]"
         },
         {
-          "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33612068",
-          "source": "澎湃新闻",
+          "title": "如何看待白宫提词器操作员提前获取特朗普演讲稿，并据此押注获利近 10 万元，最终被调查？",
+          "url": "https://www.zhihu.com/question/2061441397995954863",
+          "source": "知乎",
           "ranks": [
-            16
+            14,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时54分 ~ 21时19分]"
+          "time_info": "[21时19分 ~ 22时55分]"
         },
         {
           "title": "媒体：“毫秒级速度”获取特朗普帖文，特朗普媒体科技集团报价10万美元/月",
@@ -1231,17 +1286,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
-        },
-        {
-          "title": "如何看待白宫提词器操作员提前获取特朗普演讲稿，并据此押注获利近 10 万元，最终被调查？",
-          "url": "https://www.zhihu.com/question/2061441397995954863",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-18）",
@@ -1283,7 +1327,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -1297,6 +1341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "特朗普透露：因凡蒂诺曾建议美国和中国联合举办一届世界杯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33611562",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "特朗普的社交帖文被包装成付费产品，华尔街机构不付费就将“慢人一步”",
@@ -1349,7 +1404,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -1377,11 +1432,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时58分 ~ 21时19分]"
+          "appearance_count": 9,
+          "time_info": "[06时58分 ~ 22时55分]"
         },
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -1487,6 +1543,18 @@
           "time_info": "[01时15分 ~ 03时13分]"
         },
         {
+          "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
+          "url": "https://wallstreetcn.com/articles/3777263",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时19分 ~ 22时55分]"
+        },
+        {
           "title": "美股收盘：三大股指低收，芯片股涨跌不一",
           "url": "https://flash.jin10.com/detail/20260718040114530800",
           "source": "金十数据",
@@ -1508,17 +1576,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
-        },
-        {
-          "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
-          "url": "https://wallstreetcn.com/articles/3777263",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
         },
         {
           "title": "美股半导体指数跌入熊市",
@@ -1662,19 +1719,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时59分 ~ 21时19分]"
+          "appearance_count": 8,
+          "time_info": "[07时59分 ~ 22时55分]"
         },
         {
           "title": "这周金价发生了什么",
           "url": "https://www.toutiao.com/trending/7663819778364345910/",
           "source": "今日头条",
           "ranks": [
-            23
+            23,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时19分 ~ 22时55分]"
         }
       ]
     },
